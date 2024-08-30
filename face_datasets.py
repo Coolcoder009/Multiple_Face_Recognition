@@ -18,7 +18,7 @@ face_detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 # Set unique id for each individual person
 face_id = 3
 
-# Variable for counting the no. of images
+# Variable for counting the no. of images 
 count = 0
 
 #checking existence of path
